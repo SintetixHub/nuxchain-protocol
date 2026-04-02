@@ -1,7 +1,7 @@
 ---
 name: erc6551-account-wiring
-description: 'Use when deploying, configuring, debugging, or reviewing ERC-6551 token bound accounts, implementation addresses, deterministic account derivation, or TBA mismatches across NuxChain agent NFT categories. Usa esta skill para wiring preciso de cuentas ligadas al NFT.'
-argument-hint: 'Describe el contrato NFT, el implementation ERC-6551, el tokenId o el mismatch observado'
+description: "Deploy, configure, debug, or review ERC-6551 token bound accounts, implementations, deterministic derivation, and TBA mismatches. Ensure precise wiring across categories."
+argument-hint: "Describe NFT contract, ERC-6551 implementation, tokenId, or observed mismatch"
 ---
 
 # ERC6551 Account Wiring

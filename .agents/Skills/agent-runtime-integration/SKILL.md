@@ -1,7 +1,7 @@
 ---
 name: agent-runtime-integration
-description: 'Use when integrating AI agent NFTs with registry, minigames, rentals, paymaster logic, NuxTap agent marketplace, supported NFT lists, or operational roles. Usa esta skill para validar integraciones runtime alrededor de los agent NFTs.'
-argument-hint: 'Describe el flujo runtime: minigame, rental, marketplace, paymaster, view o roles implicados'
+description: "Integrate AI agent NFTs with registry, minigames, rentals, paymaster, NuxTap marketplace, NFT whitelists, and roles. Validate operational runtime flows."
+argument-hint: "Describe runtime flow: minigame, rental, marketplace, paymaster, view, or roles"
 ---
 
 # Agent Runtime Integration

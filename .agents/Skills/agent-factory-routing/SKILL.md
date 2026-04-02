@@ -1,7 +1,7 @@
 ---
 name: agent-factory-routing
-description: 'Use when editing or validating NuxAgentFactory, category templates, factory mint routing, batch minting, fee forwarding, or category contract wiring for AI agent NFTs. Usa esta skill para controlar el flujo completo de mint desde factory a category NFTs.'
-argument-hint: 'Describe el cambio en factory, category routing, templates, fees o batch mint'
+description: "Edit or validate NuxAgentFactory, category templates, routing, batch minting, fees, and NFT wiring. Control mint flow from factory to category contracts."
+argument-hint: "Describe the change in factory, routing, templates, fees, or batch mint"
 ---
 
 # Agent Factory Routing

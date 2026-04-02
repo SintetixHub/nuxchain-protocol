@@ -1,7 +1,7 @@
 ---
 name: frontend-export-surface-sync
-description: 'Use when ABI names, deployed addresses, optional clients, NuxAgentView, NuxTap, or other contract surfaces change and external apps need synchronized export artifacts. Usa esta skill para mantener consistente el paquete export y la surface consumida por frontend.'
-argument-hint: 'Indica el cambio de ABI, address map, cliente o contrato que debe reflejarse en export/'
+description: "Sync ABI names, addresses, optional clients, NuxAgentView, NuxTap, and contract surfaces when changes occur. Keep export package and frontend surface consistent."
+argument-hint: "Describe ABI, address mapping, client, or contract change to reflect in export/"
 ---
 
 # Frontend Export Surface Sync

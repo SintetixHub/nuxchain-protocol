@@ -1,7 +1,7 @@
 ---
 name: agent-prompts-and-metadata
-description: 'Use when editing AI agent NFT metadata, AgentConfig, tokenURI, agentURI, ERC-7662 prompt fields, encrypted prompt handling, category template defaults, or Gemini model configuration in NuxChain. Usa esta skill para mantener limpia la superficie de prompts y metadata de agentes.'
-argument-hint: 'Describe el cambio en prompts, metadata NFT, agentURI, modelo o template por categoria'
+description: "Edit agent NFT metadata, AgentConfig, tokenURI, agentURI, ERC-7662 prompts, encryption, templates, and Gemini config. Keep prompts and metadata surfaces clean."
+argument-hint: "Describe the change in prompts, metadata, agentURI, model, or category template"
 ---
 
 # Agent Prompts And Metadata

@@ -1,7 +1,7 @@
 ---
 name: agent-registry-composite-identity
-description: 'Use when changing NuxAgentRegistry, agent metadata, feedback, validation, agent wallet management, or any integration that identifies agent NFTs across multiple category collections. Usa esta skill para preservar identidad compuesta nftContract plus tokenId y evitar colisiones.'
-argument-hint: 'Indica el flujo del registry, API afectada o modulo que consume identidad de agentes'
+description: "Change NuxAgentRegistry, agent metadata, feedback, validation, wallet management, or cross-collection integrations. Preserve composite identity and avoid collisions."
+argument-hint: "Describe registry flow, affected API, or module consuming agent identity"
 ---
 
 # Agent Registry Composite Identity
