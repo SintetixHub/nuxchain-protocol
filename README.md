@@ -21,7 +21,7 @@
 
 ### ⚡ Smart Staking
 
-* Dynamic APY (43.8% → 250%+)
+* Dynamic APY (8.6% → 25.50%+)
 * Flexible lockups (24h–365d)
 * Auto-compounding (manual or automatic)
 * Partial reinvestment control
@@ -41,7 +41,7 @@
 
 ### 🎮 Gamified Ecosystem
 
-* XP system + Levels (1–50)
+* XP system + Levels (1–250)
 * Daily quests & achievements
 * Streak multipliers (up to 2x XP)
 * Badges (Mods, Influencer, Ambassador, etc.)
@@ -94,11 +94,15 @@
 
 **Treasury Distribution:**
 
-* 30% Rewards
-* 25% Staking sustainability
-* 20% Contributors
-* 15% Development
-* 10% Operations
+The protocol distributes revenue via a **7-day automatic distribution cycle**:
+
+* **20% Reserve Fund** (mandatory, protected for emergencies)
+* **Of remaining 80%:**
+  * 30% → Rewards (quests, achievements, levels)
+  * 35% → Staking sustainability
+  * 20% → Collaborators (badge holders)
+  * 15% Development
+  * 0% → Marketplace (reserved for future use)
 
 ---
 
